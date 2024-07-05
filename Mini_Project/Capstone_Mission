@@ -1,1 +1,2 @@
-
+Abstract
+This project involves creating a simple text-based To-Do List application using Python. The application allows users to add tasks with due dates, remove tasks, mark tasks as completed, and view the list of tasks with their statuses. It employs fundamental Python concepts such as lists, dictionaries, loops, conditional statements, and user input handling to provide a straightforward and interactive user experience.
