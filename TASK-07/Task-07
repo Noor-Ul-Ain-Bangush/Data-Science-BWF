@@ -1,1 +1,5 @@
+Abstract:
+The notes provide a detailed overview of the first two chapters of the book "Learn Version Control with Git". 
+Chapter 1 covers the basics of version control, explaining what it is, why it's useful, and how to get started. 
+Chapter 2 dives into initializing a new Git repository, staging changes, making commits, and working with branches. The notes emphasize best practices for crafting commits, writing good commit messages, and using branches to keep development contexts separate.
 
