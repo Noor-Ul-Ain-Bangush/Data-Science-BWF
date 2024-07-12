@@ -1,1 +1,15 @@
+NumPy:
+NumPy is a powerful numerical computing library for Python that provides support for arrays, matrices, and many mathematical functions. It is widely used for scientific computing and data manipulation due to its efficiency and speed.
+
+Pandas:
+Pandas is a data analysis and manipulation library that provides data structures like Series and DataFrame. It offers tools for reading and writing data, handling missing values, and performing operations like merging, grouping, and reshaping data.
+
+Matplotlib:
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is highly customizable and supports a wide range of plots and charts, making it essential for data visualization.
+
+Scikit-Learn:
+Scikit-learn is a machine learning library that provides simple and efficient tools for data mining and data analysis. It includes algorithms for classification, regression, clustering, and dimensionality reduction, and is designed to work seamlessly with NumPy and Pandas.
+
+Seaborn:
+Seaborn is a statistical data visualization library based on Matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics, with built-in themes and color palettes to improve the aesthetics of plots.
 
