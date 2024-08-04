@@ -1,0 +1,10 @@
+This repository contains several machine learning tasks demonstrating various classification techniques:
+1. Spam Email Classification
+•	Description: A model to classify emails as spam or not spam.
+
+2. Diabetes Prediction
+•	Description: A model to predict the likelihood of diabetes based on patient data.
+
+3. Iris Dataset Example
+•	Description: An example of clustering and classification using the Iris dataset.
+
