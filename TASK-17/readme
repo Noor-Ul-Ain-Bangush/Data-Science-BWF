@@ -1,0 +1,4 @@
+This repository contains practical deep learning projects demonstrating the implementation of various neural network models. 
+Included are examples for binary classification using the IMDB dataset, multiclass classification using the Reuters dataset, regression with the Boston Housing dataset, image classification with MNIST, and text generation with RNNs. 
+Each example showcases data preprocessing, model building, training, evaluation, and prediction to provide a comprehensive understanding of deep learning applications.
+
